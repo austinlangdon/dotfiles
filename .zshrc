@@ -11,3 +11,6 @@ source $ZSH/oh-my-zsh.sh
 
 # Set colors for LS_COLORS.
 eval `dircolors ~/.dircolors`
+
+# GitHub PAT
+export GITHUB_TOKEN=$PAT
